@@ -1,4 +1,4 @@
-# Python 66 / 139
+# Python 69 / 139
 - [x] Basics 19 / 19
 - - [x] Simple programs 10 / 10
    - - [x] Introduction to Python
@@ -196,19 +196,19 @@
    - - [ ]  QL Alchemy Mappings <br><br>
 
 -----------------------------------------------------------------------------------------------
-- [ ] Object-oriented programming 3 / 12
+- [ ] Object-oriented programming 6 / 12
 - - [ ] Classes 2 / 3
    - - [x]  Class
    - - [x]  Class instances
    - - [ ]  Class vs instance <br><br>
 
-- - [ ] Methods 1 / 4
+- - [ ] Methods 3 / 4
    - - [x]  Methods
    - - [x]  Methods and attributes
    - - [x]  Magic methods
    - - [ ]  Math magic methods <br><br>
 
-- - [ ] Advanced OOP 0 / 5 
+- - [ ] Advanced OOP 1 / 5 
    - - [x]  Inheritance
    - - [ ]  Method overriding
    - - [ ]  Abstract classes
