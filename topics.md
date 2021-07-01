@@ -204,12 +204,12 @@
 
 - - [ ] Methods 1 / 4
    - - [x]  Methods
-   - - [ ]  Methods and attributes
-   - - [ ]  Magic methods
+   - - [x]  Methods and attributes
+   - - [x]  Magic methods
    - - [ ]  Math magic methods <br><br>
 
 - - [ ] Advanced OOP 0 / 5 
-   - - [ ]  Inheritance
+   - - [x]  Inheritance
    - - [ ]  Method overriding
    - - [ ]  Abstract classes
    - - [ ]  Decorators in OOP
