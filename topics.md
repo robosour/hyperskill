@@ -30,7 +30,7 @@
 
 -----------------------------------------------------------------------------------------------
 
-- [ ] Code quality 9 / 16
+- [ ] Code quality 10 / 16
 - - [x] Code style 5 / 5
    - - [x] PEP 8
    - - [x] Comments
@@ -38,12 +38,12 @@
    - - [x] Docstrings
    - - [x] Avoiding bad comments <br><br>
    
-- - [ ] Errors and exceptions 4 / 5
+- - [ ] Errors and exceptions 5 / 5
    - - [x] Errors
    - - [x] Built-in exceptions
    - - [x] Exceptions
    - - [x] Exception handling
-   - - [ ] User-defined exceptions<br><br>
+   - - [x] User-defined exceptions<br><br>
 
 - - [ ] Testing and debugging 0 / 6
    - - [ ] Debugging in shell
@@ -208,9 +208,9 @@
    - - [x]  Magic methods
    - - [ ]  Math magic methods <br><br>
 
-- - [ ] Advanced OOP 1 / 5 
+- - [ ] Advanced OOP 2 / 5 
    - - [x]  Inheritance
-   - - [ ]  Method overriding
+   - - [x]  Method overriding
    - - [ ]  Abstract classes
    - - [ ]  Decorators in OOP
    - - [ ]  Multiple inheritance <br><br>
