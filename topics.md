@@ -1,4 +1,4 @@
-# Python 69 / 139
+# Python 72 / 139
 - [x] Basics 19 / 19
 - - [x] Simple programs 10 / 10
    - - [x] Introduction to Python
@@ -54,8 +54,8 @@
    - - [ ] Unittest in more detail <br><br>
  -----------------------------------------------------------------------------------------------
 
-- [ ] Working with data 22 / 45
-- - [ ] Data types and operations 10 / 19
+- [ ] Working with data 23 / 45
+- - [ ] Data types and operations 11 / 19
    - - [x]  Basic data types and operations 4/4
    - - - [x] Basic data types
    - - - [x] Integer arithmetic
@@ -77,9 +77,9 @@
    - - - [ ] Hashable
    - - - [ ] Objects in Python <br><br>
 
-   - - [ ]  Boolean 1 / 2
+   - - [x]  Boolean 2 / 2
    - - - [x] Boolean logic
-   - - - [ ] Conversion to boolean <br><br>
+   - - - [x] Conversion to boolean <br><br>
 
    - - [ ]  Bytes 0 / 2 
    - - - [ ] Bytes basics
@@ -196,11 +196,11 @@
    - - [ ]  QL Alchemy Mappings <br><br>
 
 -----------------------------------------------------------------------------------------------
-- [ ] Object-oriented programming 6 / 12
-- - [ ] Classes 2 / 3
+- [ ] Object-oriented programming 7 / 12
+- - [x] Classes 3 / 3
    - - [x]  Class
    - - [x]  Class instances
-   - - [ ]  Class vs instance <br><br>
+   - - [x]  Class vs instance <br><br>
 
 - - [ ] Methods 3 / 4
    - - [x]  Methods
